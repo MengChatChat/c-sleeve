@@ -13,3 +13,7 @@ const promisic = function (func) {
         })
     }
 }
+
+export {
+    promisic
+}
